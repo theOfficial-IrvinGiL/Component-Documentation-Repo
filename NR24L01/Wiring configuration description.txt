@@ -1,0 +1,7 @@
+Arduino type: MEGA
+
+CE -> pin 9 
+CSN -> pin 10
+SCK -> pin 52
+MO -> pin 51
+MI -> pin 50
