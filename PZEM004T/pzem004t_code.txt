@@ -1,4 +1,8 @@
 // task assigned to: @benjie
+// pin RX - TX
+// pin TX - RX
+
+
 #include <PZEM004Tv30.h>
 PZEM004Tv30 pzem(11, 12);
 void setup()
